@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(164, 78, 245);
+    padding: 50px;
+    font: 16px Arial;
+    
+}
+div#familia{
+    background-color: rgb(79, 158, 207);
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px rgba(23, 20, 20, 0.409) ;
+}
+header {
+    background-color: white;
+    text-align: center;
+    border-radius: 3px;
+}
+p {
+    padding: 5px 20px;
+}
+input {
+    border-radius: 4px;
+    padding: 3px;
+}
+
+
+footer {
+    text-align: center;
+}
